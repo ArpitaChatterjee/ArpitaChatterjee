@@ -2,11 +2,10 @@
 
 ### I'm Arpita Chatterjee [Portfolio]
 
-## I'm a Student, Undergraduate and a Developer!
+I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology. 
 
-- 🔭 I’m currently working on a my projects!
 - 🌱 I’m currently learning Machine Learning and Computer Vision.
-- 👯 I’m looking to collaborate with projects where i can explo
+- 👯 I’m looking to collaborate with projects where i can enhance my knowledge and skills in the field of ML. 
 - 🥅 My Goals: Learn New Technologies and Contribute more to Open Source projects .
 - ⚡ Fun fact: I love to drive and travel.
 
