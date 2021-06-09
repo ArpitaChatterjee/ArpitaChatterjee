@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-
-### Hi there, I'm Arpita Chatterjee - aka [Arpita][website] 
+### I'm Arpita Chatterjee[website]
 
 ## I'm a Student, Undergraduate and a Developer!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on a learning new technologies!
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate with projects where i can help in  
 - 🥅 2021 Goals: Learn New Technologies and Contribute more to Open Source projects .
 - ⚡ Fun fact: I love to drive and travel.
@@ -32,24 +31,27 @@
 ### Languages and Tools:
 
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
+<img alt="c++" width="26px" src="https://img.icons8.com/color/240/000000/c plus plus.png">
+</code>]
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
+<img alt="c" width="26px" src="https://img.icons8.com/color/240/000000/c.png">
+</code>]
+[<code>
+<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
+</code>]
+
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 [<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img alt="MachineLearning" width="26px" src="https://img.icons8.com/color/240/000000/ml.png">
 </code>](https://nodejs.org/en/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
@@ -69,30 +71,21 @@
 </code>](https://www.microsoft.com/en-us/windows)
 ---
 
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaChatterjee&show_icons=true&theme=radical)
 
-<a href="https://github.com/ArpitaChatterjee/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitaChatterjee&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ArpitaChatterjee/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitaChatterjee&repo=convoychat" />
-</a>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaChatterjee&layout=compact)](https://github.com/ArpitaChatterjee/github-readme-stats)
 
 ---
 
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=ArpitaChatterjee.ArpitaChatterjee" alt="Visitors">                     
-</p>
 
----
-
-[website]: 
+[website]: https://my-portfolio.arpitachatterjee.vercel.app/
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
 [gmail]: mailto:arpitachatterjee2510@gmail.com
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
 [whatsapp]: https://wa.me/9435695532
-[telegram]: https://telegram.me/ArpitaC.
+[telegram]: https://telegram.me/arpitachatterjee25.
 [facebook]: https://www.facebook.com/Chatterjee__
 [instagram]: https://www.instagram.com/_arpita.chatterjee.
 
