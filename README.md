@@ -43,7 +43,7 @@ I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology.
 [whatsapp]: https://wa.me/9435695532
 [telegram]: https://telegram.me/arpitachatterjee25.
 [facebook]: https://www.facebook.com/Chatterjee__
-[instagram]: https://www.instagram.com/_arpita.chatterjee.
+[instagram]: https://www.instagram.com/_arpita.chatterjee_/
 
 
 <!--**ArpitaChatterjee/ArpitaChatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
