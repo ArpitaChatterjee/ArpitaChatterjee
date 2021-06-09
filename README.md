@@ -4,10 +4,10 @@
 
 ## I'm a Student, Undergraduate and a Developer!
 
-- 🔭 I’m currently working on a learning new technologies!
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate with projects where i can help in  
-- 🥅 2021 Goals: Learn New Technologies and Contribute more to Open Source projects .
+- 🔭 I’m currently working on a my projects!
+- 🌱 I’m currently learning Machine Learning and Computer Vision.
+- 👯 I’m looking to collaborate with projects where i can explo
+- 🥅 My Goals: Learn New Technologies and Contribute more to Open Source projects .
 - ⚡ Fun fact: I love to drive and travel.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
