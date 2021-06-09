@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm [Arpita Chatterjee]
+### I'm <img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" /> [Arpita Chatterjee]
 
 I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology. 
 
@@ -11,7 +11,7 @@ I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Arpita" height="22px" src="./SocialLogo/Web.png" />][Arpita Chatterjee]
+[<img align="left" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][Arpita Chatterjee]
 [<img align="left" alt="Arpita | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
 [<img align="left" alt="Arpita | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
@@ -22,7 +22,7 @@ I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology.
 <br/>
 
 <p align=center>
-<em>Don't hesitate to get in touch!</em>
+<em>Willing to collaborate?? Get in touch, [here] !</em>
 </p>
 
 ---
@@ -38,7 +38,7 @@ I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology.
 
 [Arpita Chatterjee]: https://my-portfolio.arpitachatterjee.vercel.app/
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
-[gmail]: mailto:arpitachatterjee2510@gmail.com
+[here]: mailto:arpitachatterjee2510@gmail.com
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
 [whatsapp]: https://wa.me/9435695532
 [telegram]: https://telegram.me/arpitachatterjee25.
