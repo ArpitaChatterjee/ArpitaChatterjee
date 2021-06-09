@@ -22,14 +22,12 @@ I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology.
 <br/>
 
 <p align=center>
-<em>Willing to collaborate?? Get in touch, [here] !</em>
+<em>Willing to collaborate?? Get in touch!</em>
 </p>
 
 ---
 
 ![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaChatterjee&show_icons=true&theme=radical)
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaChatterjee&layout=compact)](https://github.com/ArpitaChatterjee/github-readme-stats)
 
@@ -38,7 +36,7 @@ I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology.
 
 [Arpita Chatterjee]: https://my-portfolio.arpitachatterjee.vercel.app/
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
-[here]: mailto:arpitachatterjee2510@gmail.com
+[gmail]: mailto:arpitachatterjee2510@gmail.com
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
 [whatsapp]: https://wa.me/9435695532
 [telegram]: https://telegram.me/arpitachatterjee25.
