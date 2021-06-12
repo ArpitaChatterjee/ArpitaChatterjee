@@ -2,7 +2,7 @@
 
 ### I'm [Arpita Chatterjee]
 
-I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology. 
+I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology. 
 
 - 🌱 I’m currently learning Machine Learning and Computer Vision.
 - 👯 I’m looking to collaborate with projects where i can enhance my knowledge and skills in the field of ML. 
