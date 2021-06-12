@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm <img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" /> [Arpita Chatterjee]
+### I'm [Arpita Chatterjee]
 
 I'm a 3rd Ungraduate Student at SRM Institute of Science and Technology. 
 
