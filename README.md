@@ -13,7 +13,7 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 
 [<img align="left" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][Arpita Chatterjee]
 [<img align="left" alt="Arpita | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][here]
 [<img align="left" alt="Arpita | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="Arpita | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="left" alt="Arpita | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
@@ -22,7 +22,7 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 <br/>
 
 <p align=center>
-<em>Ping me [here] if you're willing to collaborate with me on something intresting!</em>
+<em>If you're willing to collaborate with me on something intresting, Ping me [here] !!</em>
 </p>
 
 ---
@@ -36,9 +36,9 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 
 [Arpita Chatterjee]: https://my-portfolio.arpitachatterjee.vercel.app/
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
-[here]: mailto:arpitachatterjee2510@gmail.com
+[mail]: mailto:arpitachatterjee2510@gmail.com. 
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
-[whatsapp]: https://wa.me/9435695532
+[here]: https://wa.me/9435695532
 [telegram]: https://telegram.me/arpitachatterjee25.
 [facebook]: https://www.facebook.com/Chatterjee__
 [instagram]: https://www.instagram.com/_arpita.chatterjee_/
