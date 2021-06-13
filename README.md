@@ -22,7 +22,7 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 <br/>
 
 <p align=center>
-<em>If you're willing to collaborate with me on something intresting, Ping me [here](https://wa.me/9435695532) !!</em>
+<em>If you're willing to collaborate with me on something intresting, Ping me !!</em>
 </p>
 
 ---
