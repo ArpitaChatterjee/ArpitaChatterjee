@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif">
 
 ### I'm [Arpita Chatterjee]
 
