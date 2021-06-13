@@ -22,7 +22,7 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 <br/>
 
 <p align=center>
-<em>Willing to collaborate?? Get in touch!</em>
+<em>Ping me [here] if you're willing to collaborate with me on something intresting!</em>
 </p>
 
 ---
@@ -36,7 +36,7 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 
 [Arpita Chatterjee]: https://my-portfolio.arpitachatterjee.vercel.app/
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
-[gmail]: mailto:arpitachatterjee2510@gmail.com
+[here]: mailto:arpitachatterjee2510@gmail.com
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
 [whatsapp]: https://wa.me/9435695532
 [telegram]: https://telegram.me/arpitachatterjee25.
