@@ -10,15 +10,37 @@ I'm a 3rd Undergraduate Student at SRM Institute of Science and Technology.
 - 🥅 My Goals: Learn New Technologies and Contribute more to Open Source projects .
 - ⚡ Fun fact: I love to drive and travel.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][Arpita Chatterjee]
-[<img align="left" alt="Arpita | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][here]
-[<img align="left" alt="Arpita | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Arpita | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Arpita | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+ 
 
+
+<p align="center">
+
+  <div align="center">
+ <b>Languages and Tools</b>
+     <br/>
+     <br/>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code> 
+    <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <!--code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ml/m.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dl/dl.png"></code-->
+
+  </div>
+  </p>
+
+**Connect with me:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+[<img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][Arpita Chatterjee]
+[<img align="center" alt="Arpita | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="center" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][here]
+[<img align="center" alt="Arpita | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="center" alt="Arpita | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="center" alt="Arpita | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br/>
 
