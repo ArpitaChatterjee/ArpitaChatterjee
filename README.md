@@ -1,20 +1,20 @@
-### Hi there 👋
+# [Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Arpita Chatterjee][website]
 <img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif">
 
-### I'm [Arpita Chatterjee]
+
 
 I'm a Final Year Undergraduate Student at SRM Institute of Science and Technology. 
 
-- 🌱 I’m currently learning Machine Learning and Computer Vision.
-- 👯 I’m looking to collaborate with projects where i can enhance my knowledge and skills in the field of ML. 
-- 🥅 My Goals: Learn New Technologies and Contribute more to Open Source projects .
-- ⚡ Fun fact: I love to drive and travel.
+- 🌱 Passionate about Machine Learning and NLP .
+- 👯 Looking forward to collaborate with projects where i can enhance my knowledge and skills in the field of ML. 
+- 🥅 Always motivated to learn New Technologies and Contribute more to Open Source projects .
+- ⚡ Fun fact about me : Love to drive and travel.
 
 
  
 
 
-<p align="center">
+<!--p align="center">
 
   <div align="center">
  <b>Languages and Tools</b>
@@ -28,14 +28,14 @@ I'm a Final Year Undergraduate Student at SRM Institute of Science and Technolog
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <!--code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ml/m.png"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dl/dl.png"></code-->
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dl/dl.png"></code>
 
   </div>
-  </p>
+  </p-->
 
 **Connect with me:** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][Arpita Chatterjee]
+[<img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][website]
 [<img align="center" alt="Arpita | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="center" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][here]
 [<img align="center" alt="Arpita | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
@@ -45,19 +45,23 @@ I'm a Final Year Undergraduate Student at SRM Institute of Science and Technolog
 <br/>
 
 <p align=center>
-<em>If you're willing to collaborate with me on something intresting, Ping me  !!</em>
+<em>Willing to collaborate on something intresting, Ping me!!</em>
 </p>
 
 ---
 
-![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaChatterjee&show_icons=true&theme=radical)
+
+## My GitHub Stats 💻
+
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaChatterjee&hide=issues,contribs&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaChatterjee&layout=compact)](https://github.com/ArpitaChatterjee/github-readme-stats)
+
 
 ---
 
 
-[Arpita Chatterjee]: https://my-portfolio.arpitachatterjee.vercel.app/
+[website]: https://my-portfolio.arpitachatterjee.vercel.app/
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
 [mail]: mailto:arpitachatterjee2510@gmail.com. 
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
