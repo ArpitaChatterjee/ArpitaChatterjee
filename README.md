@@ -1,4 +1,4 @@
-# [Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Arpita Chatterjee][website]
+# [Hello, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Arpita Chatterjee][website]
 <img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif">
 
 
@@ -53,9 +53,9 @@ I'm a Final Year Undergraduate Student at SRM Institute of Science and Technolog
 
 ## My GitHub Stats 💻
 
-![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaChatterjee&hide=issues,contribs&show_icons=true&theme=dracula)
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitaChatterjee&hide=issues,contribs&show_icons=true&theme=outrun)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaChatterjee&layout=compact)](https://github.com/ArpitaChatterjee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaChatterjee&layout=compact&theme=flag-india)](https://github.com/ArpitaChatterjee/github-readme-stats)
 
 
 ---
