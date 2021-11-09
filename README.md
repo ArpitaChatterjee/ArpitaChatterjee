@@ -1,9 +1,13 @@
 # [Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Arpita Chatterjee][website]
-<img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif">
+<!--img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif"-->
+[<img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][website]
+[<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">][stackoverflow] 
+[<img height="30" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white">][quora]
+[<img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
 
 
-
-I'm a Final Year Undergraduate Student at SRM Institute of Science and Technology. 
+### I'm a Final Year Undergraduate Student at SRM Institute of Science and Technology. 
 
 - 🌱 Passionate about Machine Learning and NLP .
 - 👯 Looking forward to collaborate with projects where i can enhance my knowledge and skills in the field of ML. 
@@ -37,7 +41,6 @@ I'm a Final Year Undergraduate Student at SRM Institute of Science and Technolog
 
 [<img align="center" alt="Arpita" height="22px" src="./SocialLogo/Arpita Chatterjee.png" />][website]
 [<img align="center" alt="Arpita | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="center" alt="Arpita | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][here]
 [<img align="center" alt="Arpita | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="center" alt="Arpita | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="center" alt="Arpita | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
@@ -65,12 +68,11 @@ I'm a Final Year Undergraduate Student at SRM Institute of Science and Technolog
 [linkedin]: https://www.linkedin.com/in/arpitachatterjee25/. 
 [mail]: mailto:arpitachatterjee2510@gmail.com. 
 [quora]: https://www.quora.com/profile/ArpitaChatterjee
-[here]: (https://wa.me/9435695532)
 [telegram]: https://telegram.me/arpitachatterjee25.
 [facebook]: https://www.facebook.com/Chatterjee__
 [instagram]: https://www.instagram.com/_arpita.chatterjee_/
-
-
+[kaggle]: https://www.kaggle.com/arpitachatterjee25
+[stackoverflow]: https://stackoverflow.com/users/preferences/17364101 
 <!--**ArpitaChatterjee/ArpitaChatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
