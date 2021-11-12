@@ -1,6 +1,6 @@
 # [Hello, I'm Arpita Chatterjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website]
 <!--img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif"-->
-
+[<img alt="Arpita" height="30" src="./SocialLogo/Arpita Chatterjee.png" />][website]
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">][stackoverflow] 
 [<img height="30" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white">][quora]
