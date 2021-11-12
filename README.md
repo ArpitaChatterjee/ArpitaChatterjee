@@ -18,28 +18,31 @@
  
 
 
-<p align="center">
+
 
   <div align="center">
   <h2><b>Languages and Tools</b></h2>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
   <code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code> 
   <code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+  
+   
+  <code><img height="30" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code> 
   <code><img height="30" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
-  </div>
-  </p>
   
-  <p align="center">
-  <div align="center">
+  </div>
+ 
+  
+ <div align="center">
  <h2><b>Connect with me:</b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="40"></h2>
     
 
@@ -48,8 +51,7 @@
 [<img align="center" alt="Arpita | Telegram" height="30px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="center" alt="Arpita | Facebook" height="30px" src="./SocialLogo/Facebook.png" />][facebook]
 [<img align="center" alt="Arpita | Instagram" height="30px" src="./SocialLogo/Instagram.png" />][instagram]
- </div>
-  </p>
+</div>
 <br/>
 
 <h4 align=center>
