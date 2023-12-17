@@ -1,4 +1,4 @@
-# [Hello, I'm Arpita Chatterjee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website]
+# Hello, I'm [Arpita Chatterjee](https://my-portfolio-arpitachatterjee.vercel.app/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <!--img align=center alt="Hello!!" height=250px width=250px src="./SocialLogo/gif.gif"-->
 [<img alt="Arpita" height="30" src="./SocialLogo/Arpita Chatterjee.png" />][website]
 [<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -7,12 +7,11 @@
 [<img height="30" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
 
 
-### I'm a Final Year Undergraduate Student at SRM Institute of Science and Technology. 
+### I'm a Software Engineer. 
 
 - 🌱 Passionate about Machine Learning and NLP .
 - 👯 Looking forward to collaborate with projects where i can enhance my knowledge and skills in the field of ML. 
 - 🥅 Always motivated to learn New Technologies and Contribute more to Open Source projects .
-- ⚡ Fun fact about me : Love to drive and travel.
 
 
  
